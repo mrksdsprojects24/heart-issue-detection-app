@@ -21,7 +21,7 @@ model.fit(X, y)
 
 import streamlit as st
 
-st.title("Heart Disease Risk Assessment")
+st.title("Heart Disease Risk Assessment app by Krishna")
 
 st.write("Please enter your information using the slider and checkboxes to calculate risk of heart issue.")
 
